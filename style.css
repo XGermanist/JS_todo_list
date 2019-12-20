@@ -1,0 +1,16 @@
+body
+{
+  background-color: #CCFFCC;
+}
+.container
+{
+  background-color: #C0C0C0;
+}
+.items
+{
+  font-family: georgia, serif;
+}
+.checkedItem
+{
+  text-decoration: line-through;
+}
